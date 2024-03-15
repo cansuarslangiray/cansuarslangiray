@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-<!--
-**cansuarslangiray/cansuarslangiray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cansu, a third year computer engineering student specializing in game development with Unity Engine. Below, you can learn about the programming languages and tools I am familiar with.
 
-Here are some ideas to get you started:
+### 🕹️Game Portfolio: [https://cansuarslangiray.github.io/](https://cansuarslangiray.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Programming languages I use: 
+<div>
+    <img src="assets/C_Sharp_Logo_2023.svg" alt="C#" height="30">
+    <img src="assets/java.png" alt="Java" height="30">
+    <img src="assets/javascript.png" alt="JavaScript" height="30">
+    <img src="assets/sql.png" alt="SQL" height="30">
+    <img src="assets/vba.png" alt="vba" height="30">
+</div>
+
+
+### Technologies
+- Unity Engine for game development 🕹️
+- Java for backend development 💽
+- NextJS for web development 🕸️
+- Git for version control system 🎛️
+- Jetbrains Toolchain ⚙️
+- Visual Studio Toolchain ⚙️
