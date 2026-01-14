@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Cansu, a third year computer engineering student specializing in game development with Unity Engine. Below, you can learn about the programming languages and tools I am familiar with.
+I'm Cansu, a Computer Engineering graduate specializing in game development with the Unity Engine. Below, you can find the programming languages and tools I am experienced with.
 
 ### 🕹️Game Portfolio: [https://cansuarslangiray.github.io/](https://cansuarslangiray.github.io/)
 
